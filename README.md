@@ -1,10 +1,11 @@
-# iii
-C sudoku &amp; unblackedges
+# iii (C sudoku &amp; unblackedges)
 
-Name: Jae Hyun Cheigh (jcheig01), Khanh Nguyen (cnguye10)
-Fall 2020 - COMP40
-Homework 2
-Submit Date: 10/1/2020
+* Name: Jae Hyun Cheigh (jcheig01), Khanh Nguyen (cnguye10)
+* Fall 2020 - COMP40
+* Homework 2
+* Submit Date: 10/1/2020
+
+## Implementation
 
 We successfully implemented sudoku program by utilizing 2D unboxed array
 data structure that we created. We first built uarray2.h and uarray2.c
