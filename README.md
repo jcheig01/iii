@@ -39,6 +39,8 @@ needed to be unblacked. Every time the array element was popped, the
 neighbor black bits were searched and the popped element value changed
 from 1(black) to 0(white).
 
+## Improvements Needed
+
 There was a memory leak for using pngtopnm command for converting png file
 to pnm file. We checked with the TA and it seemed like it was a leak that
 we couldn't avoid. Other than that, the program worked well in general.
